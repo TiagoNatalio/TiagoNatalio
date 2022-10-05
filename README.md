@@ -1,11 +1,10 @@
 ## What's up!! Me chamo Tiago Natalio!
 
-Sou um desenvolvedor que venho expandindo minha sabedoria no mundo da programação!
-Tenho um grande objetivo de ser aquele desenvolvedor que seja uma referência para os colegas de trabalho, busco sempre quebrar a cabeça para refatorar um código e sempre me manter bem informado sobre as linguagens que trabalho, eu também não fico parado na hora de aprender um nova linguagem!
+Sou um desenvolvedor e estudante da área de tecnologia, moro em Barueri/SP e atualmente estou com 19 anos fazendo graduação na UNIP. Meu primeiro contato com programação foi no meu ensino médio técnico do ITB, em 2019, há quase 4 anos atrás.
 
-## Contatos:
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+Sou um desenvolvedor que venho expandindo minha sabedoria no mundo da programação! Tenho um grande objetivo de ser aquele desenvolvedor que seja uma referência para os colegas de trabalho, busco sempre quebrar a cabeça para refatorar um código e sempre me manter bem informado sobre as linguagens que trabalho, eu também não fico parado na hora de aprender uma nova linguagem!
+
+📫| Você pode falar comigo pelo <a target="mailto:tiagonatalio41@gmail.com">Gmail</a> ou pelo <a href="https://www.linkedin.com/in/TiagoNatalio/">Linkedin</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 <div align="center">
   <a href="https://github.com/TiagoNatalio">

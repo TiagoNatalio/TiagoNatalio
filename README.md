@@ -13,7 +13,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoNatalio&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
           
-## Minha baguagem como programador!🤠
+## Minha bagagem como programador!🤠
 ### Aprendendo linguagens:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
           

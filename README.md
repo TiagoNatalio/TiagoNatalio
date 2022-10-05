@@ -4,7 +4,13 @@ Sou um desenvolvedor e estudante da área de tecnologia, moro em Barueri/SP e at
 
 Sou um desenvolvedor que venho expandindo minha sabedoria no mundo da programação! Tenho um grande objetivo de ser aquele desenvolvedor que seja uma referência para os colegas de trabalho, busco sempre quebrar a cabeça para refatorar um código e sempre me manter bem informado sobre as linguagens que trabalho, eu também não fico parado na hora de aprender uma nova linguagem!
 
-📫| Você pode falar comigo pelo <a href="mailto:tiagonatalio41@gmail.com">Gmail</a> ou pelo <a href="https://www.linkedin.com/in/TiagoNatalio/">Linkedin</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+💻| Faço parte da ITPower e desenvolvo tanto automações usando Pytho quanto Desenvolvimento Web usando <a href="https://www.adobe.com/br/products/coldfusion-family.html">ColdFusion</a>;
+
+📚| Atualmente venho estudando java e sua biblioteca Spring, mas não deixo de estudar minha atual linguagem o Python;
+
+🎥| Amo passar meu tempo livre assistindo alguma série ou filme, gosto muito ler, seja livros, conteúdos acadêmicos e resoluções de bugs!😝
+
+📫| Você pode falar comigo pelo <a href="mailto:tiagonatalio41@gmail.com">Gmail</a> ou pelo <a href="https://www.linkedin.com/in/TiagoNatalio/">Linkedin</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
 
 <div align="center">
   <a href="https://github.com/TiagoNatalio">

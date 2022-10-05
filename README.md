@@ -3,13 +3,13 @@
 ### Sou um desenvolvedor que venho expandindo minha sabedoria no mundo da programação!
 
 ## Minha baguagem como programador!🤠
-### Conhecimento em linguagens:
+### Aprendendo linguagens:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
           
 ### Linguagens com experiência:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 
-### Conhecimento em bibliotecas:
+### Aprendendo bibliotecas:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
 
 ### Bibliotecas com experiência:

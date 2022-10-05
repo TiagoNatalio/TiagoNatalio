@@ -8,7 +8,7 @@ Sou um desenvolvedor que venho expandindo minha sabedoria no mundo da programaç
 
 📚| Atualmente venho estudando java e sua biblioteca Spring, mas não deixo de estudar minha atual linguagem o Python;
 
-🎥| Amo passar meu tempo livre assistindo alguma série ou filme, gosto muito ler, seja livros, conteúdos acadêmicos e resoluções de bugs!😝
+🎥| Amo passar meu tempo livre assistindo alguma série ou filme, gosto muito de ler, seja livros, conteúdos acadêmicos e resoluções de bugs!😝
 
 📫| Você pode falar comigo pelo <a href="mailto:tiagonatalio41@gmail.com">Gmail</a> ou pelo <a href="https://www.linkedin.com/in/TiagoNatalio/">Linkedin</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
 

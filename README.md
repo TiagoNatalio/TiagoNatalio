@@ -1,8 +1,8 @@
-### What's up!! Me chamo Tiago Natalio!
+## What's up!! Me chamo Tiago Natalio!
 
-## Sou um desenvolvedor que venho expandindo minha sabedoria no mundo da programação!
+### Sou um desenvolvedor que venho expandindo minha sabedoria no mundo da programação!
 
-# Atualmente as tecnologias ou linguagens que venho carregando na minha bagaguem são:
+### Atualmente as tecnologias ou linguagens que venho carregando na minha bagaguem são:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           

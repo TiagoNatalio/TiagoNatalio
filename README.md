@@ -4,7 +4,7 @@ Sou um desenvolvedor e estudante da área de tecnologia, moro em Barueri/SP e at
 
 Sou um desenvolvedor que venho expandindo minha sabedoria no mundo da programação! Tenho um grande objetivo de ser aquele desenvolvedor que seja uma referência para os colegas de trabalho, busco sempre quebrar a cabeça para refatorar um código e sempre me manter bem informado sobre as linguagens que trabalho, eu também não fico parado na hora de aprender uma nova linguagem!
 
-💻| Faço parte da ITPower e desenvolvo tanto automações usando Python quanto Desenvolvimento Web usando <a href="https://www.adobe.com/br/products/coldfusion-family.html">ColdFusion</a>;
+💻| Faço parte da VisualMix
 
 📚| Atualmente venho estudando java e sua biblioteca Spring, mas não deixo de estudar minha atual linguagem o Python;
 

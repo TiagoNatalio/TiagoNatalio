@@ -1,6 +1,6 @@
 ## What's up!! Me chamo Tiago Natalio!
 
-Sou um desenvolvedor e estudante da área de tecnologia, moro em Barueri/SP e atualmente estou com 19 anos fazendo graduação na UNIP. Meu primeiro contato com programação foi no meu ensino médio técnico do ITB, em 2019, há quase 4 anos atrás.
+Sou um desenvolvedor e estudante da área de tecnologia, moro em Barueri/SP e atualmente estou com 19 anos fazendo graduação na UNIP. Meu primeiro contato com programação foi no meu ensino médio técnico do ITB, em 2019.
 
 Sou um desenvolvedor que venho expandindo minha sabedoria no mundo da programação! Tenho um grande objetivo de ser aquele desenvolvedor que seja uma referência para os colegas de trabalho, busco sempre quebrar a cabeça para refatorar um código e sempre me manter bem informado sobre as linguagens que trabalho, eu também não fico parado na hora de aprender uma nova linguagem!
 
